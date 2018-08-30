@@ -3,7 +3,7 @@
 ### App Description
 Hello World is an interactive app where you can change the background color of the app, enter custom text, and change the text's color.
 
-### App Walk-though
+### App Walk-through
 
 <img src=http://g.recordit.co/UejMuReVo2.gif width=200><br>
 
