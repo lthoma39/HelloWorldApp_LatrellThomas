@@ -1,7 +1,7 @@
 ## HelloWorldApp_LatrellThomas
 
 ### App Description
-`Hello World is an interactive app where you can change the background color of the app, enter custom text, and change the text's color.
+Hello World is an interactive app where you can change the background color of the app, enter custom text, and change the text's color.
 
 ### App Walk-though
 
