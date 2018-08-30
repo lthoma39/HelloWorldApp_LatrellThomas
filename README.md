@@ -2,10 +2,14 @@
 
 ### App Description
 Hello World is an interactive app where you can change the background color of the app, enter custom text, and change the text's color.
+Features:
+   Change Text: User can enter custom texts and change the original text displayed.
+   Change Text Color: Changes the text's color to blue when selected.
+   Change View Color: When selected a random color of the rainbow will be used (ROYGB). 
 
 ### App Walk-through
 
-<img src=http://g.recordit.co/UejMuReVo2.gif width=200><br>
+<img src=http:http://g.recordit.co/P1jXkf7snc.gif width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
